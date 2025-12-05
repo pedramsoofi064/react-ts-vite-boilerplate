@@ -1,8 +1,6 @@
 # React TypeScript Vite Boilerplate
 
-A clean, modern, and production-ready React boilerplate built with TypeScript, Vite, and Material-UI. This template provides a solid foundation for building scalable React applications with best practices and modern tooling.
-
-**Created by [Pedram Soofi](https://github.com/pedramsoofi)**
+A modern, production-ready React boilerplate built with TypeScript, Vite, and Material-UI. This template provides a solid foundation for building scalable React applications with best practices and modern tooling.
 
 ## ✨ Features
 
@@ -141,18 +139,14 @@ ESLint uses Airbnb configuration with TypeScript support.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
-
-**Pedram Soofi**
-
-- GitHub: [@pedramsoofi](https://github.com/pedramsoofi)
-
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit pull requests.
+Contributions, issues, and feature requests are welcome!
+
+## 📄 License
+
+MIT © Your Name
 
 ---
 
 **Happy Coding! 🚀**
-
-*Built with ❤️ by Pedram Soofi*

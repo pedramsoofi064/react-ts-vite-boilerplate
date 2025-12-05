@@ -1,8 +1,8 @@
 {
-  "name": "@pedramsoofi/react-ts-vite-boilerplate",
+  "name": "react-ts-vite-boilerplate",
   "author": "Pedram Soofi",
   "version": "1.0.0",
-  "description": "A clean, modern React + TypeScript + Vite boilerplate with Material-UI - Ready for your next project",
+  "description": "A modern React + TypeScript + Vite boilerplate with Material-UI",
   "private": true,
   "type": "module",
   "scripts": {
